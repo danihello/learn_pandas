@@ -1,1 +1,1 @@
-Notebooks part 2
+Exercises part 2
